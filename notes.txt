@@ -1,0 +1,5 @@
+1. Extract Processor's Name
+2. no wifi
+3. bluetooth
+4. FM Radio
+5. OS: Android|iOS|Mocor|Symbian|Blackberry|KaiOS|Nucleus
