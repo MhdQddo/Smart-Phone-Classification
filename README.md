@@ -10,7 +10,7 @@ This repository contains the code and resources for a data analysis project focu
 
 ## Contents:
 - Jupyter Notebooks: Contains detailed code and analysis in Jupyter Notebook format.
-- Dataset: Includes the dataset used for analysis and model training.
+- Dataset: Includes the dataset used for analysis and model training. [Download Dataset](https://www.kaggle.com/datasets/tarungupta02/latest-smartphone-dataset-march-2024)
 - Model Evaluation: Provides insights into the evaluation process and criteria used for selecting the final machine learning model.
 - Results: Summarizes the findings and results of the data analysis and model selection process.
 
